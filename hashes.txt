@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dhup Chaya
+
+This log tracks the cryptographic history and versioning for the song **Dhup Chaya** (dhup-chaya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:58:18.761837 | `v1` | `9283862b8b85cb854916d49e9a401f79fdf1c5724c732d831c088aaaff34edcb` | `2883c8c13ca8c6b771bc316fba8ed15b7d84278f01cd6e5a358d2aea9ed7d8e8` | `2026-05-08_dhup-chaya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
